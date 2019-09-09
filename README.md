@@ -4,11 +4,16 @@
 # Script References
 In addition to the screenshots and directions from the Assignment 1 Instructions.pdf, we used the following sources for coding on the following issues:
 
+**Modeling**
+- https://catlikecoding.com/unity/tutorials/
+
 **GetKeyDown**
-  - for tab button to turn the light different colors
+- for tab button to turn the light different colors
   - for keys 1 and 2 to switch between rooms
 - https://docs.unity3d.com/ScriptReference/Input.GetKeyDown.html
 
+**Scoring and controls**
+- https://unity3d.com/de/learn/tutorials/s/roll-ball-tutorial
 
 **Skybox**
 - https://docs.unity3d.com/Manual/HOWTO-UseSkybox.html
